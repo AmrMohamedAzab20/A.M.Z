@@ -1,0 +1,23 @@
+Heading{
+color:blue;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+text-align: center;
+
+
+}
+#specialh{
+ text-align: left;
+font-size: 30px;
+color:green;
+}
+body{
+ background-repeat: repeat-y;
+background-position: center ;
+}
+
+body{
+ background-repeat: repeat-y;
+background-position: center;
+
+}
